@@ -1,1 +1,1 @@
-Este notebook de python muetra un ejemplo de el clasificador KNN aplicado al data set de Iris, en el cual se compara como diferentes metricas como el Accuracy, Recall y Precision cambian dependiendo del numero de vecinos con el que el clasificador trabaje 
+En este repositorio estan los talleres entregaod en la materia de Aprendizaje Automatizado de la especializacion de IA de la UAO
