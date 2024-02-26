@@ -1,6 +1,0 @@
-https://github.com/SantiagoGS97/Aprendizaje-Automatico.git
-
-
-
-
-* Importante: En el repositorio enviado para el taller 1, se agrega el notebook correspondiente a la entrega de la semana 2 
